@@ -1,0 +1,1 @@
+{"name":"Local: KthMaxMin","url":"c:\\Users\\HP\\OneDrive\\Desktop\\lb 450\\KthMaxMin.cpp","tests":[{"id":1637409929015,"input":"6\n7 10 4 3 20 15\n3","output":"7 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\OneDrive\\Desktop\\lb 450\\KthMaxMin.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: maxAndMin","url":"c:\\Users\\HP\\OneDrive\\Desktop\\lb 450\\maxAndMin.cpp","tests":[{"id":1637390546618,"input":"7\n4 8 3 7 13 2 1","output":"min = 1\nmax = 13"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\OneDrive\\Desktop\\lb 450\\maxAndMin.cpp","group":"local","local":true}
