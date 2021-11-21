@@ -1,0 +1,1 @@
+{"name":"Local: minimizeHeight","url":"c:\\Users\\HP\\OneDrive\\Desktop\\lb 450\\minimizeHeight.cpp","tests":[{"id":1637484209661,"input":"2 4\n1 5 8 10","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\OneDrive\\Desktop\\lb 450\\minimizeHeight.cpp","group":"local","local":true}

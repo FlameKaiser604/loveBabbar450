@@ -1,0 +1,1 @@
+{"name":"Local: maxSubarraySum","url":"c:\\Users\\HP\\OneDrive\\Desktop\\lb 450\\maxSubarraySum.cpp","tests":[{"id":1637477926854,"input":"5\n1 2 3 -2 5","output":"9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\OneDrive\\Desktop\\lb 450\\maxSubarraySum.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Union","url":"c:\\Users\\HP\\OneDrive\\Desktop\\lb 450\\Union.cpp","tests":[{"id":1637477259541,"input":"5 3\n1 2 3 4 5\n1 2 3","output":"5"},{"id":1637477285334,"input":"6 2 \n85 25 1 32 54 6\n85 2","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\OneDrive\\Desktop\\lb 450\\Union.cpp","group":"local","local":true}
